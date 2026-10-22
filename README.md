@@ -1,6 +1,6 @@
 # TRITON
 
-TRITON is a desktop GUI application for building unstructured triangular meshes for coastal and ocean circulation models. It helps you go from a coastline shapefile and bathymetry raster to a simulation-ready mesh: defining the mesh domain (rectangle/arc open boundaries), refining resolution along channels or over areas of interest, carving out inundation/flooding extents (by elevation, inland distance, or hand-drawn polygons), generating and auto-fixing the triangular mesh, setting up 2D or 3D (SZ) vertical grids, and exporting to multiple model formats (SCHISM `.gr3`, SMS `.2dm`, ADCIRC `.fort14`, Delft3D-FM UGRID `.nc`).
+**TRITON** (**TRI**angular mesh **T**ool for **O**cean **N**umerical models) is a desktop GUI application for building unstructured triangular meshes for coastal and ocean circulation models. It helps you go from a coastline shapefile and bathymetry raster to a simulation-ready mesh: defining the mesh domain (rectangle/arc open boundaries), refining resolution along channels or over areas of interest, carving out inundation/flooding extents (by elevation, inland distance, or hand-drawn polygons), generating and auto-fixing the triangular mesh, setting up 2D or 3D (SZ) vertical grids, and exporting to multiple model formats (SCHISM `.gr3`, SMS `.2dm`, ADCIRC `.fort14`, Delft3D-FM UGRID `.nc`).
 
 ![TRITON](screenshot.png)
 
